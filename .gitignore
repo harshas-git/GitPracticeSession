@@ -1,5 +1,4 @@
 *.log
 build/
-Harsha.txt
 *.env
 *.txt
